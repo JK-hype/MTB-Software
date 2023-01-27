@@ -1,7 +1,7 @@
 # MTB-Software
 This software supports the Molecular Tumour Board at the Universitätsklinikum Eppdendorf (UKE).
 
-It functions is mainly to ease the workload for the physicians the UKE, improve effectiveness and patient safety and provide a further to step to a more digitalised healthcare system.
+It functions is mainly to ease the workload for the physicians at the UKE, improve effectiveness and patient safety and provide a further to step to a more digitalised healthcare system.
 
 The software integrates the <a href="https://github.com/AG-Boerries/MIRACUM-Pipe-docker">MIRACUM-Pipeline</a> developed at the Uniklinik Freiburg and the <a href="https://www.dkfz.de/de/clinical-trial-office/knowledgeconnector.html">Knowledge Connector</a> (KC) developed at the DKFZ at the Universitätsklinikum Heidelberg.
 For this, it sends the output of the MIRACUM-Pipeline (MAF-file) to the KC. Further, it can receive Emails containing the input of the MIRACUM-Pipeline (FASTQ-files).
