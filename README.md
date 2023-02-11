@@ -18,4 +18,4 @@ The MTB-Software is build according to the Microservice Architecture. The code o
 
 The Microservices communicate via REST.
 
-The MTB-Software was topic of a <a href="https://d120f1e.online-server.cloud/index.php/s/SEQJxBH6Lmtitt9">Master Thesis</a>.
+The MTB-Software was topic of a <a href="https://jankramer.me/index.php/s/E7BRSiffR5GSgtJ">Master Thesis</a>.
